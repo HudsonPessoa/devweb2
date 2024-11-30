@@ -1,4 +1,4 @@
-## Executar na AWS
+# Executar na AWS
 
 Instalação de pacotes
 ```
